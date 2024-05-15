@@ -1,0 +1,6 @@
+int a;
+void fn(int a,int b){}
+class A{
+    int a;
+    int a;
+};

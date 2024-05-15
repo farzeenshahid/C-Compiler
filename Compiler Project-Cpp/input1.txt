@@ -1,0 +1,14 @@
+class MyClass {
+public:
+    MyClass(int value) {
+        
+    }
+    MyClass(int a, float b){
+        this.m = m;
+    }
+};
+int arr[];
+int arr2[][] = {};
+int main(){
+       MyClass obj2(42);
+}

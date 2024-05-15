@@ -1,0 +1,45 @@
+int a = 5;
+
+void myFunction() {
+  
+}
+int arr[] = {};
+
+enum spring{
+    spring, summer, autumn,winter
+};
+
+class A{
+    static int q;
+    static int brr[];
+    int a (){}
+    
+    A(int a, float obj){}
+    
+    public:
+      
+      virtual int Dob(){}
+
+      
+       int Dob(){}
+private:
+      int a;
+       int Dob(){}
+
+};
+
+class B : public A{
+
+};
+int main(){
+    for(int i=0; i<5; i++)
+    {
+        float k;
+        A obj;
+        k ++;
+        
+    }
+    
+    
+    
+}
